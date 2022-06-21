@@ -1,0 +1,18 @@
+
+**Database Name: onlinefoodorder**
+
+**Developed by Vijay Thapa**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: ivo
+Password: 123456
+
+Username: mesi
+Password: 123456
+
+
+
